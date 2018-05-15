@@ -19,7 +19,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <LineUp data={arr} />
+        <LineUp data={arr} style={{height: '500px'}} />
       </div>
     );
   }
