@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import {LineUp} from 'lineupjsx';
 import 'lineupjsx/build/LineUpJSx.css';
-import logo from './logo.svg';
 import './App.css';
 
 const arr = [];
